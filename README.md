@@ -8,16 +8,13 @@ This repository contains the code and resources for our machine learning project
 
 
 
-- [Bengali Movie Recommendation System](#bengali-movie-recommendation-system)
-  - [Overview](#overview)
-  - [Table of Contents](#table-of-contents)
-  - [Important Links](#important-links)
-  - [Dataset](#dataset)
-    - [Data Collection](#data-collection)
-    - [Project Implementation](#project-implementation)
-  - [Machine learning Models](#machine-learning-models)
-  - [Usage](#usage)
-    - [Dependencies](#dependencies)
+- [Overview](#overview)
+- [Table of Contents](#table-of-contents)
+- [Important Links](#important-links)
+- [Data Collection](#data-collection)
+- [Project Implementation](#project-implementation)
+- [Machine learning Models](#machine-learning-models)
+- [Usage](#usage)
   
 ## Important Links
 
@@ -34,8 +31,6 @@ Slides:
 [Presentation Slides in Canva](https://www.canva.com/design/DAF4LFQgixg/tXXyR4HUpwC3eWivg9Kd_Q/edit?utm_content=DAF4LFQgixg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-## Dataset
-
 ### Data Collection
 
 We collected data on Bengali movies from various sources and used techniques like youtube api calls to extract relevant information. The dataset includes movieId, title, storyline, trailerLink source_trailer, genre, director, starring, releasedYear, runtime, IMDB avg rating, no of users (who rated), views, likes, comments, trailerPublishedAt.
@@ -50,19 +45,12 @@ The implementation of the project was done and described in Google Colab (the li
 
 After careful deliberation we have decided to implement the following models
 
-- Decision Tree Regressor
-- Hyperparameters
-- Training process
-- Evaluation metrics
+- Decision Tree Regression
+- Random Forest Regression
+- Linear Regression
+- Support Vector Regression
 
-Provide instructions on how to reproduce the training process.
 
 ## Usage
 
-### Dependencies
-
-List the dependencies and versions required to run your code. This could include Python libraries, frameworks, or any other tools.
-
-```bash
-pip install -r requirements.txt
-```
+The results of the models are fully replicable. Kindly refer to the Google Colan file and the report for further details
