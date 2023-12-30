@@ -53,4 +53,4 @@ After careful deliberation we have decided to implement the following models
 
 ## Usage
 
-The results of the models are fully replicable. Kindly refer to the Google Colan file and the report for further details
+The results of the models are fully replicable. Kindly refer to the Google Colab file and the report for further details
