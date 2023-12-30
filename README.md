@@ -15,7 +15,7 @@ This repository contains the code and resources for our machine learning project
   - [Dataset](#dataset)
     - [Data Collection](#data-collection)
     - [Project Implementation](#project-implementation)
-  - [Models](#models)
+  - [Machine learning Models](#machine-learning-models)
   - [Usage](#usage)
     - [Dependencies](#dependencies)
   
@@ -42,15 +42,15 @@ We collected data on Bengali movies from various sources and used techniques lik
 
 ### Project Implementation
 
-The implementation of the project was done and described in Google Colab (the link is provided above). We visualized the data and the relationship between the features 
+The implementation of the project was done and described in Google Colab (the link is provided above). We visualized the data and the relationship between the features, we then processed the data and trained 4 machine learning models on it.
 
 
 
-## Models
+## Machine learning Models
 
-Detail the machine learning models you experimented with. Include information such as:
+After careful deliberation we have decided to implement the following models
 
-- Model architectures
+- Decision Tree Regressor
 - Hyperparameters
 - Training process
 - Evaluation metrics
