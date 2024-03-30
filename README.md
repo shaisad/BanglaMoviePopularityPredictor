@@ -1,6 +1,6 @@
 # COURSE TITLE:  Machine Learning Lab :computer:
 # COURSE CODE: CSE 4554
-## PROJECT TITLE: Bengali Movie Recommendation System  
+## PROJECT TITLE: Bangla Movie Popularity Predictor
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ DONE
 
 ## Overview
 
-This repository contains the code and resources for our machine learning project in the CSE 4554 Machine Learning Lab at Islamic University of Technology, Gazipur. We focused on building a Bengali movie recommendation system, collecting data, creating a dataset, and training various machine learning models to evaluate their performance.
+This repository contains the code and resources for our machine learning project in the CSE 4554 Machine Learning Lab at Islamic University of Technology, Gazipur. We focused on building a Bangla movie popularity predictor system, collecting data, creating a dataset, and training various machine learning models to evaluate their performance.
 
 ![avgrating](https://github.com/lomatul/Bangla-Movie-Predictor/assets/90206489/11faf05b-d1b1-4dc8-b09e-de5d00b9c735)
 
@@ -51,7 +51,7 @@ Slides:
 
 ### Data Collection
 
-We collected data on Bengali movies from various sources and used techniques like youtube api calls to extract relevant information. The dataset includes movieId, title, storyline, trailerLink source_trailer, genre, director, starring, releasedYear, runtime, IMDB avg rating, no of users (who rated), views, likes, comments, trailerPublishedAt.
+We collected data on Bangla movies from various sources and used techniques like YouTube API calls to extract relevant information. The dataset includes movieId, title, storyline, trailerLink, source_trailer, genre, director, starring, releasedYear, runtime, IMDB avg rating, no of users (who rated), views, likes, comments, trailerPublishedAt.
 
 ### Project Implementation
 
@@ -73,4 +73,4 @@ After careful deliberation we have decided to implement the following models
 
 ## Usage
 
-The results of the models are fully replicable. Kindly refer to the Google Colab file and the report for further details
+The results of the models are fully replicable. Kindly refer to the Google Colab file and the report for further details.
